@@ -1,6 +1,6 @@
-# HuaWeiWeatherView
-Android仿华为天气绘制刻度盘
+练习Android仿华为天气绘制刻度盘
+
 原项目地址：https://github.com/YISHUIH/HuaWeiWeatherView
 
 效果图
-![Alt text](https://github.com/adarcy/HuaWeiWeatherView/blob/master/Screenshots/WechatIMG7.jpegg)
+<img src =https://github.com/adarcy/HuaWeiWeatherView/blob/master/Screenshots/WechatIMG7.jpeg width="25%" height="25%" />
