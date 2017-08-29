@@ -6,7 +6,7 @@
     android:background="@color/colorPrimary"
     android:orientation="vertical">
 
-    <com.example.likun.myapplication.HuaWeiWeatherView
+    <com.example.adarcy.huaweiweatherview.HuaWeiWeatherView
         android:id="@+id/hwv"
         android:layout_gravity="center"
         android:layout_width="200dp"
